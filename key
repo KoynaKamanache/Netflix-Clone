@@ -1,0 +1,6 @@
+48514ee8d35d89d6f765b6ee985db354  -->API key
+
+--> API request example:
+https://api.themoviedb.org/3/movie/550?api_key=48514ee8d35d89d6f765b6ee985db354
+
+/trending/all/week?api_key=<<api_key>>
